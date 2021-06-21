@@ -2,9 +2,9 @@
   "name": "frontend-template",
   "version": "0.0.1",
   "scripts": {
-    "dev": "next",
-    "build": "next build",
-    "start": "next start",
+    "dev": "npx next",
+    "build": "npx next build",
+    "start": "npx next start",
     "type-check": "tsc"
   },
   "dependencies": {
